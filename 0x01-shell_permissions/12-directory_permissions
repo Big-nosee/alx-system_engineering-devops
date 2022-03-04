@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir chmod 750 my_dir
+mkdir chmod 000 my_dir
